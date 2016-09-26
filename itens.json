@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "nome":"Coca-cola",
+    "descricao":"refrigerante de Cola",
+    "categoria":"bebida",
+    "valor":3.00
+  },
+  {
+    "id":2,
+    "nome":"Guaraná",
+    "descricao":"refrigerante de guaraná",
+    "categoria":"bebida",
+    "valor": 2.50
+  }
+  
+ ]
